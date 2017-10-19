@@ -19,6 +19,6 @@ public class TestAnimal {
 
 	animal1.nace();
 
-	System.out.println("Me llamo "+animal1.getNombre()+" y tengo "+ animal1.getEdad()+" años");
+	System.out.println("Mi nombre es "+animal1.getNombre()+" y tengo "+ animal1.getEdad()+" años");
 	}
 }
